@@ -51,21 +51,6 @@ define('SHARE_EXPIRE', 7);       // 有效期设置（0=永久）
 define('MAX_SELECT', 30);        // 最大可选文件数
 ```
 
-## 📂 代码结构
-```
-├── config/                  # 配置常量
-│   └── constants.php
-├── core/                    # 核心逻辑
-│   ├── APIHandler.php       # 接口封装
-│   ├── SearchEngine.php     # 搜索算法
-│   └── ShareManager.php     # 分享管理
-├── public/                  # 前端资源
-│   ├── assets/              # 静态文件
-│   └── index.php            # 入口文件
-└── utils/                   # 工具类
-    └── Logger.php           # 日志处理
-```
-
 ## 🚨 注意事项
 1. API凭证需在[123云盘开放平台](https://open.123pan.com)申请
 2. 生产环境务必设置 `DISPLAY_ERRORS = 0
@@ -85,4 +70,4 @@ define('MAX_SELECT', 30);        // 最大可选文件数
 
 ---
 
-> 📌 提示：完整文档参见 [Wiki](https://github.com/yourname/123pan-system/wiki) | 演示地址：[demo.example.com](https://demo.example.com)
+> 📌 提示：完整文档参见 [Wiki](https://github.com/52nfw/123pan/blob/main/README.md) 
