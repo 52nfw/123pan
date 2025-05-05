@@ -1,4 +1,4 @@
-# 123云盘资源分享系统 🚀
+# 123云盘OpenAPI开放平台资源分享系统 🚀
 
 [![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-blue.svg)](https://php.net/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
