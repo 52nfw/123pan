@@ -52,7 +52,7 @@ define('MAX_SELECT', 30);        // 最大可选文件数
 ```
 
 ## 🚨 注意事项
-1. API凭证需在[123云盘开放平台](https://open.123pan.com)申请
+1. API凭证需在[123云盘开放平台](https://www.123pan.com/developer)申请
 2. 生产环境务必设置 `DISPLAY_ERRORS = 0
 3. 文件排序算法支持自定义评分规则
 4. 分享冷却时间可配置（单位：秒）
