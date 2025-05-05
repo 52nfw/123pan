@@ -35,8 +35,7 @@
 ### 安装步骤
 ```bash
 # 克隆仓库
-git clone https://github.com/yourname/123pan-system.git
-
+git clone https://github.com/52nfw/123pan.git
 # 配置环境
 cp .env.example .env
 ```
