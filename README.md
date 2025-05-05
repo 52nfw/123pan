@@ -67,7 +67,3 @@ define('MAX_SELECT', 30);        // 最大可选文件数
 
 ## 📜 开源协议
 本项目采用 [MIT License](LICENSE)，请遵守123云盘API使用条款。
-
----
-
-> 📌 提示：完整文档参见 [Wiki](https://github.com/52nfw/123pan/blob/main/README.md) 
